@@ -1,7 +1,7 @@
 class sk
 {
 public static void main()
-(
+{
 System.out.println("hello z");
 }
 }
